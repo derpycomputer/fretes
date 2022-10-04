@@ -1,0 +1,29 @@
+html {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+body {
+  background-color: rgba(26, 23, 24, 0.9);
+}
+
+.container {
+  color:rgb(197, 163, 13);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+  color: gray;
+}
+
+a {
+  color:rgb(90, 75, 7);
+}
+
+i {
+  font-size: 72px;
+}
